@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: SJU VSA
+description: The Vietnamese Student Association at St. John's University is a cultural, professional, and social organization that was first to be established in 2017.
+owner: Corey Hom
+first_published: 2018 # if migrating another site, the year of your first publish
+email: chom3@binghamton.edu
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+social:
+  facebook-official: https://facebook.com/SJUVSA
+  instagram: https://instagram.com/sjuvsa
+  email: president.sjuvsa@gmail.com
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
